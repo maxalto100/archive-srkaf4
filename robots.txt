@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maxalto100.github.io/archive-srkaf4/sitemap.xml
